@@ -22,11 +22,9 @@ import { Component } from '@angular/core';
             <div>
                 <div class="form-group">
                     <label for="email">E-mail:</label>
-                    {{model.email}}
                 </div>
                 <div class="form-group">
                     <label for="password">Password:</label>
-                    {{model.password}}
                 </div>
             </div>
         </div>
